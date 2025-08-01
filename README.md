@@ -1,6 +1,5 @@
 <p><h1> Medical records system </h1><br></p>
-
-<p><h3> Features <h3><br></p>
+<p> <u><h3> Features <h3><br></p>
 <p>
 Role-Based Access Control (RBAC) using Laravel Spatie Permissions<br>
 CRUD operations on medical records (diagnosis, medicines, allergies, tests, etc.)<br>
@@ -9,15 +8,12 @@ Authentication and Authorization with Laravel UI<br>
 Audit trail through timestamps<br>
 Validation and error handling on forms<br>
 </p>
-
 <p><h3> Roles and permissions <h3> <br></p>
 <p>
 Super Admin	has full system access, including user and role management <br>
 Admin can manage doctors and view all records<br>
 Doctor	can create, update, and view their own patients' records<br>
-
 </p>
-
 <p><h3> Medical record structure <h1></p>
 <p> Each record includes: <br>
 Each record includes:
