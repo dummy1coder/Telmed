@@ -1,4 +1,4 @@
-<h1> Medical records system </h1><br>
+<p><h1> Medical records system </h1><br></p>
 
 <p><h3> Features <h3><br></p>
 <p>
